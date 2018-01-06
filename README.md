@@ -1,10 +1,10 @@
 # MeltDown-PoC
 
-To run:
+## To run:
 
-root@computer:~#git clone https://github.com/fouroctets/MeltDown-PoC.git
-root@computer:~#cd MeltDown-PoC
-root@computer:~#gcc -o meltdown meltdown.c
-root@computer:~#./meltdown
-Boom now you l337
+1. root@computer:~# git clone https://github.com/fouroctets/MeltDown-PoC.git
+2. root@computer:~# cd MeltDown-PoC
+3. root@computer:~# gcc -o meltdown meltdown.c
+4. root@computer:~# ./meltdown
+5. Boom now you l337
 
